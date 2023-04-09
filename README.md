@@ -5,4 +5,4 @@ Usage
 
 To use the executable, simply double-click the MemeTextGenerator.exe file. Note that you may get a warning that the file is from an unknown publisher and may be unsafe. This is because the executable is not signed with a digital certificate.
 
-To proceed with running the executable, you can click "More info" and then "Run anyway" to launch the program. Alternatively, you can obtain a code signing certificate from a trusted third-party provider and sign the executable to prevent this warning message from appearing.
+To proceed with running the executable, you can click "More info" and then "Run anyway" to launch the program.
